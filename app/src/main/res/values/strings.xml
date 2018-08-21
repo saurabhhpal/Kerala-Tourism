@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Kerala Tours</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="insights">Insights</string>
+    <string name="beaches">Beaches</string>
+    <string name="waterfall">Waterfall</string>
+    <string name="nationalParks">national Parks</string>
+
+    <string name="anamudiSholaNationalPark">	Anamudi Shola </string>
+    <string name="beach_kovalam">Kovalam</string>
+    <string name="beach_kovalam_desc">The most popular and most developed beach in Kerala. Often likened to Goa\'s Calangute and Baga beaches, Kovalam is located not far from the capital, Trivandrum. It\'s actually made up of two main coves -- Hawa (also referred to as Eve's beach) and Lighthouse. Lighthouse is the biggest and busiest of the two, with its promenade lined with open-air restaurants. Kovalam is a popular surfing destination in India.</string>
+
+    <string name="beach_varkala">Varakala</string>
+    <string name="beach_varkala_desc">Varkala beach is the pick of the beaches in Kerala, in terms of ambiance and facilities. Although more and more tourists are flocking there every year, it\'s still less crowded than Kovalam and the scenery is striking. The beach lies at the bottom of a long stretch of cliff that\'s bordered by beach shacks and shops. You can stay right on the cliff, overlooking the ocean, or set back from it. It's incredibly romantic! Lots of young foreigners and couples enjoy this beach.</string>
+    <string name="beach_marari">Marari</string>
+    <string name="beach_marari_desc">the small town of Kannur, in northern Kerala, is known for its secluded beaches, mysterious masked spirit-possession theyyam rituals, and handloom weaving. The theyyam season runs from October until May and Kerala Tourism has a comprehensive ​calendar of theyyam events. There are some delightful, laid back (and inexpensive) beach houses in the Thottada beach area, such as Kannur Beach House, Waves Beach Resort, Chera Rock Beach House, KK Heritage Homestay, and Seashell Beach Home. Kannur district is also home to Muzhappilangad Drive-In Beach.</string>
+    <string name="beach_bekal">Bekal</string>
+    <string name="beach_bekal_desc">Bekal beach, in far north Kerala (around one hour\'s drive from Mangalore airport in Karnataka) is famous for its old fort -- apparently the largest one in Kerala. The beaches are clean and unspoiled, but luxury hotels have already started moving into the area, making it the place for a pampered getaway. The most popular resort is the gorgeous Taj Vivanta. It\'s possible to stay there for under 9,000 rupees per night, depending on the season. The secluded Lalit Resort and Spa Bekal is located on a private beach with backwaters running through it.</string>
+
+
+    <string name="anamudiSholaNationalPark_DESC">You are here: Home / Environmental science / Environmental Education and Policy / Anamudi Shola National Park complete detail – updated
+Anamudi Shola National Park complete detail – updated
+August 2, 2018 by Vijay Choudhary Leave a Comment
+
+Anamudi Shola National Park complete detail – updated. Geography of Anamudi Shola National Park. Dominant flora and fauna of Anamudi Shola National Park. How to Reach Anamudi Shola National Park. The National Park consists of three shola reserve forests (Idivara Shola Reserve, Pullardi Shola Reserve and Mannavan Shola Reserve).
+The Park is surrounded by Eravikulam National Park, Pambadum Shola National Park, Chinnar Wildlife sanctuary, Mathikettan Shola National Park. It is supervised by Kerala Wildlife and Forest department and Munnar Wildlife Division, along with other National Parks and Sanctuary like Erevikulam National Park, Mathikettan Shola National Park, Chinnar Wildlife Sanctuary, Pambadum Shola National Park and the Kurinjimala Sanctuary……………
+Total area of the park is about 7.5 Km2. It was declared as a National Park in the year of 2003. The park provides safe and comfortable habitat to the wild species of flora and fauna. The rich wildlife includes Elephant, Tiger, Panther, Indian Bison, Nilgiri tahr, Gaur, Spotted Deer, Sambar, Giant Grizzled Squirrel, Hanuman Langur, Sloth Bear, Flying Squirrels etc.
+National park is an area which is strictly reserved for the betterment of the wildlife and  biodiversity, and where activities like developmental, forestry, poaching, hunting and grazing on cultivation are not permitted. Their boundaries are well marked and circumscribed.
+4184
+
+Anamudi Shola National Park is a beautiful place, located along the Western Ghats in the Idukki district of the state of Kerala.
+
+Anamudi Shola National Park is a part of Annamalai sub-cluster and has been nominated for World Heritage site status under UNESCO’s World heritage Programme. It was declared as a National Park in the year of 2003. Total area of the park is about 7.5 Km2.
+
+Anamudi Shola National Park consists of three shola reserve forests (Idivara Shola Reserve, Pullardi Shola Reserve and Mannavan Shola Reserve)	</string>
+
+    <string name="EravikulamNationalPark">Eravikulam </string>
+    <string name="EravikulamNationalPark_DESC">Munnar is among the crown jewels of God’s Own Country and has attracted visitors from around the world for centuries due to its natural splendour. Hidden inside, lies the famous Eravikulam National Park, the home and sanctuary of the Nilgiri Tahr. This sacred haven for this exotic animal is a relief in a time when different species are disappearing off the face of the planet. Situated in the Devikulam Taluk of Idukki district, people also flock to this park to view the special Neelakurinji flowers that bloom once every 12 years.
+</string>
+
+    <string name="PeriyarNationalPark">Periyar </string>
+    <string name="PeriyarNationalPark_DESC">Periyar Wildlife Sanctuary, locating in Thekkady is the perfect example of nature\'s bounty with great scenic beauty and rich biodiversity. In this astounding location of Kerala , the Periyar National Park and Wildlife Sanctuary is considered as the most protected area for the elephants and the tigers. One of the most renowned national parks in South India, the Periyar National Park is set high at the Western Ghat ranges. The protected area is widespread along the area of 925 sq km (357 sq mi). The rest of 350 sq km (140 sq mi) of the core zone was declared as the Periyar National Park in the year 1982</string>
+
+    <string name="Athirappilly">Athirappilly</string>
+    <string name="AthirappillyWaterfalls_DESC">Athirapally Waterfalls are located 1000 feet above sea level at the Chalakudy River in Thrissur district of Kerala. One of the famous tourist attractions in Kerala, the magnificent waterfalls are a sight worth witnessing. This is the biggest waterfall in Kerala. Athirapally falls comes down from a height of 80 feet through several parallel streams. In the monsoon season, in its full might, the waterfalls appear like Niagara Falls.
+Athirapally waterfalls never dries out and can be visited anytime during the year. Though the waterfall appears in its full glory during monsoons, heavy rains cause inconvenience. So, the best time to visit is from September to January.
+</string>
+
+    <string name="VazhachalWaterfalls">Vazhachal</string>
+    <string name="VazhachalWaterfalls_DESC">At a distance of 7 Kms from Athirapally and 75 Kms from Kochi, Vazhachal Waterfalls is a breathtakingly beautiful waterfall situated very close to Athirapally - Valparai road. It is one of the best places to visit near Athirapally Falls.
+
+Near the entrance of the Sholayar forest range, the waterfall is formed on Chalakkudy River at lower stream of Athirapally Waterfalls. The surroundings of the waterfalls offer rich natual views. Unlike Athirapally Waterfalls, Vazhachal flows through an inclined slope of more than 300 feet to descend into huge pool. It is very difficult and dangerous to step into the flow or to reach the bottom of the flow. It is advised to limit your Vazhachal trip to enjoying the natural beauty of the falls.
+</string>
+    <string name="SoochiparaWaterfalls">Soochipara </string>
+    <string name="SoochiparaWaterfalls_DESC">At a distance of 13 km from Meppadi, 24 km from Kalpetta and 46 km from Sulthan Bathery, Soochipara Waterfalls, also known as Sentinel Rock Waterfalls, is a beautiful waterfall situated in Vellarimala mountain range of Wayanad, among the popular tourist places in Kerala. It is one of the most visited tourist places to visit in Wayanad and is among prime place to visit on a Wayanad Trip.
+
+Soochipara Waterfalls is a 3 tiered waterfall, dropping from a height of about 200 meters. The waterfall cascades down into a large pool, which is a good place for swimming and bathing. The name Soochipara given from the words soochi means rock and para means needle. One can see needle-shaped rock here hence the name Soochipara. The water from Soochipara Falls later joins Chaliyar River after Vellarimala Hills near Cherambadi in Tamil .....    </string>
+
+    <string name="ThommankuthuWaterfalls">Thommankuthu </string>
+    <string name="ThommankuthuWaterfalls_DESC">At a distance of 25 Kms from Idukki, 48 Kms from Munnar and 20 Kms from Thodupuzha, Thommankuthu Waterfalls is a marvelous seven step cascading waterfall dropping from a height of over 300 feet with pool at each level.
+
+It is a best place to spend a day watching the nature and drown in the waters of the falls. Trekking into the surrounding picturesque hills is another popular activity at this place.
+
+This place is connected by bus from Munnar and Thodupuzha. There are no accommodation facilities available near the falls.
+
+</string>
+
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00b8d4</color>
+    <color name="colorPrimaryDark">#0088a3</color>
+    <color name="colorAccent">#0088a3</color>
+    <color name="beach">#9be7ff</color>
+    <color name="waterfall">#f9fbe7</color>
+    <color name="forest">#dce775</color>
+    <color name="insights">#FFFFFF</color>
+    <color name="textCOLOR">#f57c00</color>
+
+
+
+</resources>
